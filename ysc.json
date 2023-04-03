@@ -112,7 +112,7 @@
 "parses": [{
 		"name": "默认",
 		"type": 0,
-		"url": "https://jx.777jiexi.com/player/?url="
+		"url": "https://jx.zhanlangbu.com/?url="
 	},{
 		"name": "爱奇艺",
 		"type": 0,
@@ -125,9 +125,9 @@
 		"type": 0,
 		"url": "https://jx.m3u8.pw/?url="
 	},{
-		"name": "战郎",
+		"name": "三七",
 		"type": 0,
-		"url": "https://jx.zhanlangbu.com/?url="
+		"url": "https://jx.777jiexi.com/player/?url="
 	},{
 		"name": "pandown",
 		"type": 1,
