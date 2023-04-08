@@ -4,7 +4,7 @@
   "主页url": "http://www.smdyy.fun",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   
-  "分类": "电影$1#电视剧$2#动漫$4#日韩剧$15#欧美剧$16",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16",
   
   "分类url": "http://www.smdyy.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
@@ -160,7 +160,7 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"score"}]}],
 
-  "3":[
+"3":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"选秀","v":"选秀"},
