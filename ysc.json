@@ -89,7 +89,7 @@
 {"key":"盘搜","name": "🖥盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"},
 {"key":"UP云搜","name": "☁️UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"},
 {"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./tok.txt","jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./tok.txt"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/88kanqiu.js"},
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"./js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/jrkanzhibo.js"},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/huyazhibo.js"},
