@@ -22,6 +22,7 @@
 {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
 {"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/py_xigua.py"},
 {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/py_cctv.py"},
 {"key":"纸条","name": "📜纸条4K","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "./tok.txt"},
 {"key":"csp_FanYY","name":"💦阿里云┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tok.txt"},
