@@ -3,7 +3,7 @@
     "author": "香雅情",
     "UserAgent": "Mozilla/5.0 (Linux; Android 12; V2049A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36",
     "firstpage": "1",
-    "class_url": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "class_url": "https://www.smdyy.cc/list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
     "class_name": "电影&电视剧&综艺&动漫&日韩剧&欧美剧",
     "class_value": "1&2&3&&4&15&16",
     "filterdata": {
