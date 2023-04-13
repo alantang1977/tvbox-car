@@ -4,7 +4,7 @@
 {
 	"spider":[
         { "n": "default", "v": "./YSC.jar" }, //默认jar
-        { "n": "ali", "v": "https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar" }],
+        { "n": "ali", "v": "https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar" }], //阿里专用jar
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
