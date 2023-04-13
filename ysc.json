@@ -2,9 +2,12 @@
 //Q群：235436873
 
 {
+        ...
 	"spider":[
         { "n": "default", "v":"./YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"}, //默认jar
-        { "n": "ali", "v": "https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar" }], //阿里专用jar
+        { "n": "ali", "v": "https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar" }
+	...
+	], //阿里专用jar
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
