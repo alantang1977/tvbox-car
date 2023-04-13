@@ -2,7 +2,7 @@
 //Q群：235436873
 
 {
-	"spider": "spider" [
+	"spider":[
         { "n": "default", "v": "./YSC.jar" }, //默认jar
         { "n": "ali", "v": "https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar" }],
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
