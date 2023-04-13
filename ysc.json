@@ -7,14 +7,14 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./tv/live.txt",
+		    "url": "./tv/ipv6.m3u",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
 	"sites":[
 {"key":"本地","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-{"key":"直播","name":"💻电视直播","type":3,"api":"./js/lib/dianbo.js","ext":"电视直播$./tv/live.txt#精选频道$./tv/jing.txt&&&https://api.caonm.net/api/mc/"},
+{"key":"直播","name":"💻电视直播","type":3,"api":"./js/lib/dianbo.js","ext":"电视直播$./tv/ipv6.m3u#精选频道$./tv/jing.txt&&&https://api.caonm.net/api/mc/"},
 {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
