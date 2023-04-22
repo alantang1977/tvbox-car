@@ -37,7 +37,7 @@
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/shenma.json"},
 {"key":"UM影院","name":"⏺UM影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/yanaifei.js"},
-{"key":"csp_Bd","name":"💥哔嘀影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/bdys.js"},
+{"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},	
 
 {"key":"👨‍🌾宝仙HD","name":"👨‍🌾宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/baoxian.json"},
