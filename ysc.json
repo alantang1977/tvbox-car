@@ -39,7 +39,6 @@
 {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/yanaifei.js"},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},	
-
 {"key":"👨‍🌾宝仙HD","name":"👨‍🌾宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/baoxian.json"},
 {"key":"饭团影视","name":"🍙饭团影视","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/fantuan.js"},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
@@ -108,7 +107,8 @@
 {"key":"女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/nvtuanrewu.json"},
 {"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yanchanghui.txt"},
 {"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/duanshipin.json"},
-{"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/douyu.json"},
+{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/blzb.js"},
+{"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/douyu.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/kuqimv.json"},
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/mtv.json"}
 ],
