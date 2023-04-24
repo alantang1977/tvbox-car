@@ -7,7 +7,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "http://36.170.49.206:1818/tv.txt",
+		    "url": "http://m35.grelighting.cn/html/zb1.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
