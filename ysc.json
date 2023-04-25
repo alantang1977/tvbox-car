@@ -56,7 +56,6 @@
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"二次萌","name":"🏠二次萌","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ercimeng.js"},
-//{"key":"万能影院","name":"🔷万能影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/wanneng.js"},
 {"key":"csp_Nkdy","name":"⏺耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"蓝光影院","name":"💧蓝光影院","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/languang.json"},
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
