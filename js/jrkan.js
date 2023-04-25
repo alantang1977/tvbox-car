@@ -18,7 +18,7 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'全部',
+    class_name:'JRS赛事直播',
     class_url:'/',
     //class_url:'?live',
     headers:{
