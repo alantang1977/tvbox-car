@@ -93,7 +93,7 @@
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/88kanqiu.js"},
-{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./sub/jrkanzhibo.json"},
+{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/jrkan.js"},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/huyazhibo.js"},
 {"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/tuxiaobei.js"},
 {"key":"高中教育","name":"📚学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixt.json"},
