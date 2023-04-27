@@ -5,8 +5,8 @@ var rule = {
     title:'大豆',
     模板:'海螺3',
     host:'https://dadou.pro',
-    // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyclassfyfilter.html',
+    url:'/vodshow/fyclass--------fypage---.html',
+    //url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
 	filter: {
