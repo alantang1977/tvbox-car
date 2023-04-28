@@ -64,7 +64,7 @@
 {"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/xiongdiyingshi.js"},
 {"key":"大师兄影视","name":"🍀大师兄影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dashixiongyingshi.js"},
 {"key":"创艺影视","name":"🍀创艺影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/chuangyi.js"},
-{"key":"咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/gulugulu.json"},
+{"key":"咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/gulugulu.json"},
 {"key":"乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/lezhu.json"},
 {"key":"无名小站","name":"💢无名小站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/wumingxiaozhan.json"},
 {"key":"真不卡","name":"💢真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/zhenbuka.json"},
