@@ -101,8 +101,8 @@
 {"key":"88看球","name":"⚽88看球","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/88kanqiu.js"},
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./sub/jrkan.json"},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/huyazhibo.js"},
-{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/blzb.js"},
+{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/blzb.js"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/douyu.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./sub/kuqimv.json"},
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/mtv.json"}
