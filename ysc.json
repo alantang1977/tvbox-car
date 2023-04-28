@@ -95,7 +95,7 @@
 {"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixq.json"},
 {"key":"歌曲MV","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./sub/gequ.txt"},
-{"key":"女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/nvtuanrewu.json"},
+{"key":"女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/nvtuanrewu.json"},
 {"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yanchanghui.txt"},
 {"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/duanshipin.json"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/88kanqiu.js"},
