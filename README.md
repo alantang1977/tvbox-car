@@ -8,3 +8,28 @@
 
 ### 3.本接口不再提供本地化。
 
+### 4.接口访问地址。
+经不经典我不管，全网唯一Vip通用适配接口，搬运只为经典。已修复阿里原画无需扫码,用自己的token，本地根目录新建tvbox/tok.txt。兼容所有主流盒子软件！！！
+请收藏以下访问线路，自行选择适用的代理加速服务
+
+线路名称：运输车
+
+原生访问地址：
+https://52670576.github.io/tvbox/ysc.json
+
+GitHub加速
+国内访问地址1
+https://raw.iqiq.io/52670576/tvbox/main/ysc.json
+
+国内访问地址2
+https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+
+国内访问地址3
+https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+
+国内访问地址4
+https://ghproxy.com/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+
+国内访问地址5
+https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+
