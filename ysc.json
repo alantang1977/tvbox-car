@@ -9,7 +9,7 @@
 		    "type": 0,
 		    "url": "http://m35.grelighting.cn/html/zb1.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
 	"sites":[
