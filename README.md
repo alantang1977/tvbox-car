@@ -18,18 +18,22 @@
 https://52670576.github.io/tvbox/ysc.json
 
 GitHub加速
+
 国内访问地址1
 https://raw.iqiq.io/52670576/tvbox/main/ysc.json
 
 国内访问地址2
-https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+https://ghps.cc/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
 国内访问地址3
 https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
 国内访问地址4
-https://ghproxy.com/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
 国内访问地址5
+https://ghproxy.com/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+
+国内访问地址6
 https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
