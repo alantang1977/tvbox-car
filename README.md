@@ -1,4 +1,4 @@
-<img src="./App/weixin.jpg" width="300">
+![输入图片说明](https://foruda.gitee.com/images/1683136886664402193/b2df9886_12410592.jpeg "微信图片_20230504020053.jpg")
 
 ### 1. TVBox 开源项目  
 - TVBox系列相关软件可自行网络下载，本项目不提供相关软件。  
