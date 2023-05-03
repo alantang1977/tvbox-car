@@ -1,4 +1,4 @@
-< img src="https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/App/weixin.jpg" width="300">
+(https://ghproxy.net/https://raw.githubusercontent.com/52670576/tvbox/main/App/weixin.jpg)
 
 ### 1. TVBox 开源项目  
 - TVBox系列相关软件可自行网络下载，本项目不提供相关软件。  
