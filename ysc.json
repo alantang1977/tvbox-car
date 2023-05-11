@@ -87,7 +87,7 @@
 {"key":"UP云搜","name": "☁️UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
 {"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"},
 {"key":"网盘搜索","name": "🖥网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key":"土狗搜索","name":"🖥土狗搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/tugou.json"},
+//{"key":"土狗搜索","name":"🖥土狗搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/tugou.json"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
 //{"key":"csp_NiNi","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/tuxiaobei.js"},
