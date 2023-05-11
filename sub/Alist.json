@@ -1,16 +1,16 @@
 {
-  "小雅":"http://alist.xiaoya.pro",
-  "晴园的宝藏库":"https://alist.52qy.repl.co",
-  "一只鱼":"https://alist.youte.ml",
-  "七米蓝":"https://al.chirmyram.com", 
-  "讯维云盘":"https://pan.xwbeta.com",
-  "神族九帝":"https://alist.shenzjd.com",
-  "姬路白雪の小站":"https://pan.jlbx.xyz",
-  "米奇妙妙屋":"https://anime.mqmmw.ga",
-  "帅盘":"https://hi.shuaipeng.wang",
-  "DISK":"http://124.222.140.243:8080",
-  "云播放":"https://quanzi.laoxianghuijia.cn",
-  "触光":"https://pan.ichuguang.com",
-  "资源小站":"https://960303.xyz/",
-  "梵天":"https://iemo.fun/"
+	"vodPic": "https://s1.ax1x.com/2023/04/04/pp5M5Jx.png",
+	"drives": [{
+		"name": "Lan同学",
+		"server": "https://cirbkv-5244.csb.app"
+	}, {
+		"name": "小雅",
+		"server": "http://alist.xiaoya.pro"
+	}, {
+		"name": "星梦",
+		"server": "https://pan.bashroot.top"
+	}, {
+		"name": "云星",
+		"server": "https://alist.itvbox.cc"
+	}]
 }
