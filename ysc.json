@@ -173,8 +173,8 @@
 		}    
 	},{
 		"name": "精选5",
-		"type": 0,
-		"url": " https://chaxun.truechat365.com/?url="
+		"type": 1,
+		"url": "https://api.json.icu/api/?key=96e367598dd84cf9ed4ff7d08fb16864&url="
 	},{
 		"name": "精选6",
 		"type": 1,
