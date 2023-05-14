@@ -29,7 +29,7 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 {"key":"看看剧","name":"💧看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/kankanju.json"},
-{"key":"兔兔瓜","name":"💧兔兔瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/tutugua.json"},
+{"key":"花猫影视","name":"💧花猫TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/haumao.json"},
 {"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/rebozj.json"},
 {"key":"独播库","name":"☘️独播库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/duboku.json"},
 {"key":"HDmoli","name":"🦹魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/HDmoli.json"},
