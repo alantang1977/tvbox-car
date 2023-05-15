@@ -1,7 +1,8 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//Q群：235436873
 {
     "urls": [
         {
-            "url": "https://gitee.com/lekanbox/App/raw/master/ali.json",
+            "url": "https://lekanbox.gitee.io/app/ali.json",
             "name": "阿里无敌"
         },
         {
@@ -9,8 +10,12 @@
             "name": "运输车国内"
         },
         {
-            "url": "https://weixine.net/ysc.json",
+            "url": "https://v.weixine.net/ysc.json",
             "name": "运输车主线"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "运输车备用"
         }
     ]
 }
