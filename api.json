@@ -10,12 +10,8 @@
             "name": "运输车国内"
         },
         {
-            "url": "https://v.weixine.net/ysc.json",
-            "name": "运输车主线"
-        },
-        {
             "url": "https://weixine.net/ysc.json",
-            "name": "运输车备用"
+            "name": "运输车主线"
         }
     ]
 }
