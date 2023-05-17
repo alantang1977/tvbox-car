@@ -9,6 +9,10 @@
             "url": "http://rul2oe7c4.bkt.clouddn.com/ysc.json",
             "name": "运输车国内"
         },
+         {
+            "url": "https://cf.weixine.net/ysc.json",
+            "name": "运输车CF加速"
+        },
         {
             "url": "https://weixine.net/ysc.json",
             "name": "运输车主线"
