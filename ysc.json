@@ -85,7 +85,6 @@
 {"key":"喜马拉雅","name":"👂喜马拉雅","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ximalaya.js"},
 {"key":"有声小说吧","name":"👂有声小说吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/youshengxiaoshuoba.json"},
 {"key":"海洋听书","name":"👂海洋听书","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/haiyangtingshu.js"},
-{"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/Dm84.json"},
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yishijie.json"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./sub/Alist.json"},
