@@ -64,7 +64,7 @@
     "地区详情": ".data,2&&Text!地区：",
     "演员详情": ".data,6&&Text!主演：",
     "简介详情": ".detail-content&&Text",                                                                                                               
-    "线路列表数组规则": "body&&h3:not(:matches(猜你喜欢))",
+    "线路列表数组规则": "body&&h4:not(:matches(猜你喜欢))",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.stui-content__playlist",
     "选集列表数组规则": "a",
